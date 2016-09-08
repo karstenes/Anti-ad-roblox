@@ -1,4 +1,8 @@
 [Adblock Plus 2.0]
+! Homepage: https://karstenes.github.io/Anti-ad-roblox
+! Title: AdBloxPlus
+! Expires: 5 days
+! Version: 1
 ||roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-*
 ||roblox.com##.abp-spacer
 ||roblox.com###\33 6303635363730
