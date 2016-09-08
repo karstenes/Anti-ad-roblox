@@ -1,0 +1,6 @@
+roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-even
+roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
+roblox.com##.abp-spacer
+roblox.com###\33 6303635363730
+roblox.com##.GPTAd.skyscraper
+roblox.com##.ad-annotations
