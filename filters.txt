@@ -5,7 +5,7 @@
 ! Version: 1
 ##.ad-annotations
 ##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
-##.abp.in-game-searh-ad.dynamic-ad.ad-order-even
+##.abp.in-game-search-ad.dynamic-ad.ad-order-even
 ##.abp-spacer
 ###\33 6303635363730
 ##.GPTAd.skyscraper
