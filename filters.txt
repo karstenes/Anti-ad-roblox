@@ -3,10 +3,9 @@
 ! Title: AdBloxPlus
 ! Expires: 5 days
 ! Version: 1
-||roblox.com##.ad-annotations
-||roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
-||roblox.com##.abp.in-game-searh-ad.dynamic-ad.ad-order-even
-||roblox.com##.abp-spacer
-||roblox.com###\33 6303635363730
-||roblox.com##.GPTAd.skyscraper
-||roblox.com##.ad-annotations
+roblox.com##.ad-annotations
+roblox.com##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
+roblox.com##.abp.in-game-searh-ad.dynamic-ad.ad-order-even
+roblox.com##.abp-spacer
+roblox.com###\33 6303635363730
+roblox.com##.GPTAd.skyscraper
