@@ -7,8 +7,14 @@
 ##.abp.in-game-search-ad.dynamic-ad.ad-order-odd
 ##.abp.in-game-search-ad.dynamic-ad.ad-order-even
 ##.abp-spacer
-###\33 6303635363730
 ##.GPTAd.skyscraper
+##.abp-spacer
+##.abp.in-game-search-ad.dynamic-ad.ad-order-even
+##.ad-annotations
+###videoPrerollCompanionAd
+###videoPrerollJoinBC
+###\33 6303635363730
 ||roblox.com/user-sponsorship/3
 ||roblox.com/user-sponsorship/2
 ||roblox.com/user-sponsorship/1
+||roblox.com/js/swfobject/ima3_preloader_1.5.swf
